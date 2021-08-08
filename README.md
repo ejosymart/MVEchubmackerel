@@ -8,7 +8,7 @@
 <!-- badges: end -->
 
 # MVE chub mackerel
-Code to replicate the article "Modeling the Pacific chub mackerel (**Scomber japonicus**) ecological niche and future scenarios in the northern Peruvian Current system".
+Code to replicate the article "Modeling the Pacific chub mackerel (*Scomber japonicus*) ecological niche and future scenarios in the northern Peruvian Current system".
 
 Open the MVEchubmackerel.Rproj and follow the order provided in the code folder:
 
@@ -21,10 +21,6 @@ Open the MVEchubmackerel.Rproj and follow the order provided in the code folder:
 * 3) 3_Ellipsoide_plot.R
 
 All the scripts have comments for an easy understanding of the process.
-
-Nevertheless, you must download maxent software from: https://biodiversityinformatics.amnh.org/open_source/maxent/. After that, **you have to create a folder named maxent**, inside this folder there will be: **maxent.bat, maxent.jar, maxent.sh, readme.txt**.
-
-Also, you need to install *kuenm* package. Please follow the instructions provided in this link: https://github.com/marlonecobos/kuenm#installing-the-package
 
 
 The file structure of this project is:
@@ -42,7 +38,7 @@ The file structure of this project is:
 - README.md
 
 
-If you want to replicate the maps or other plots of the paper, contact to *Josymar Torrejón-Magallanes* (ejosymart@gmail.com) *or Luis Enrique Angeles-González* (luis.angeles0612@gmail.com).
+If you want to replicate the maps or other plots of the paper, contact to **Josymar Torrejón-Magallanes** (ejosymart@gmail.com) or **Luis Enrique Angeles-González** (luis.angeles0612@gmail.com).
 
 
 If you find any problem in the code, please add this at the Issues section of the github.
