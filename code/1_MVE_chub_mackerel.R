@@ -16,7 +16,7 @@ sp <- "caballa"
 
 # READ DATA
 # Total -------------------------------------------------------------------
-data      <- utils::read.csv("presence_caballa.csv")
+data      <- utils::read.csv("data/presence_caballa.csv")
 data      <- data[complete.cases(data), ]
 data$date <- as.Date(data$date, format = "%Y-%m-%d")
 data$year <- year(data$date)
